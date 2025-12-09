@@ -1,3 +1,14 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=maycongabietgi_ReuseUni2-test-setup-jest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=maycongabietgi_ReuseUni2-test-setup-jest)
+
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=maycongabietgi_ReuseUni2-test-setup-jest&metric=coverage)](https://sonarcloud.io/summary/new_code?id=maycongabietgi_ReuseUni2-test-setup-jest)
+
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=maycongabietgi_ReuseUni2-test-setup-jest&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=maycongabietgi_ReuseUni2-test-setup-jest)
+
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=maycongabietgi_ReuseUni2-test-setup-jest&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=maycongabietgi_ReuseUni2-test-setup-jest)
+
+![Test](https://github.com/maycongabietgi/ReuseUni2/actions/workflows/test.yml/badge.svg)
+
+
 # ✅ Testing Setup - ReuseUni Project
 
 Hướng dẫn setup và viết test cho dự án React Native sử dụng **Jest** và **@testing-library/react-native**.
