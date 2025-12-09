@@ -6,7 +6,7 @@
 
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=maycongabietgi_ReuseUni2-test-setup-jest&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=maycongabietgi_ReuseUni2-test-setup-jest)
 
-![Test](https://github.com/maycongabietgi/ReuseUni2/actions/workflows/test.yml/badge.svg)
+[![SonarCloud](https://github.com/maycongabietgi/ReuseUni2-test-setup-jest/actions/workflows/sonarcloud.yml/badge.svg)](https://github.com/maycongabietgi/ReuseUni2-test-setup-jest/actions/workflows/sonarcloud.yml)
 
 
 # ✅ Testing Setup - ReuseUni Project
