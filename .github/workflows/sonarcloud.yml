@@ -29,7 +29,7 @@ jobs:
       - name: SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@v2
         env:
-          SONAR_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SONAR_TOKEN: ${{ 977cc00febf1bda2977fb0fbd3e70dd3bbc2e5a6 }}
         with:
           args: >
             -Dsonar.projectKey=maycongabietgi_ReuseUni2-test-setup-jest
