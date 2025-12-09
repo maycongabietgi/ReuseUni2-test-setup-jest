@@ -32,7 +32,7 @@ jobs:
           SONAR_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           args: >
-            -Dsonar.projectKey=ReuseUni
+            -Dsonar.projectKey=ReuseUni2-test-setup-jest
             -Dsonar.organization=maycongabietgi
             -Dsonar.javascript.lcov.reportPaths=coverage/lcov.info
             -Dsonar.sources=src
